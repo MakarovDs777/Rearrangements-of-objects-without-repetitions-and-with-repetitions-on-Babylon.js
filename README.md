@@ -1,5 +1,7 @@
 # Rearrangements-of-objects-without-repetitions-and-with-repetitions-on-Babylon.js
 
+В нулевой версии я сделал бесконечно процедурно генерируемые горизонтальные подиумы по +X и -X оси.
+
 [All possible permutations without repetition (Version 0 - An endless podium of planes) | Babylon.js Playground](https://playground.babylonjs.com/#QEELW6#0)
 
 [All possible permutations without repetition (Version 1 - Rearranging cubes by half on each plane without repetitions) | Babylon.js Playground](https://playground.babylonjs.com/#OJYL5M#0)
