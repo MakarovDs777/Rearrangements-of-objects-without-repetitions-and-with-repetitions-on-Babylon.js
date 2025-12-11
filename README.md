@@ -4,19 +4,35 @@
 
 [All possible permutations without repetition (Version 0 - An endless podium of planes) | Babylon.js Playground](https://playground.babylonjs.com/#QEELW6#0)
 
+Бесконечный процедурно генерируемеы подиум по половине замены при каждой последующей итерации плоскости.
+
 [All possible permutations without repetition (Version 1 - Rearranging cubes by half on each plane without repetitions) | Babylon.js Playground](https://playground.babylonjs.com/#OJYL5M#0)
+
+Бесконечный процедурно генерируемеы подиум с шариками которые являются местами перестановок, и замен.
 
 [All possible permutations without repetition (Version 2 - An endless podium of planes with permutation points) | Babylon.js Playground](https://playground.babylonjs.com/#F7Y8I7#0)
 
+Конвеер перестановок всех элементов перестановок всеми способами без повторов.
+
 [All possible permutations without repetition (Version 3 - the permutation conveyor) | Babylon.js Playground](https://playground.babylonjs.com/#C8PLVS#0)
+
+Бесконечный процедурно генерируемеы подиум с шариками которые являются местами перестановок без повторов, и мы постепенно заменяем каждый шарик на пустоту при каждой последующей итерации.
 
 [All possible permutations without repetition (Version 4 - Permutations using masks by deleting objects) | Babylon.js Playground](https://playground.babylonjs.com/#IPSTA7#0)
 
+Случайное расположение шариков перестановок на каждой плоскости без повторений
+
 [All possible permutations without repetition (Version 5 - Random arrangement of balls on each plane without repetition) | Babylon.js Playground](https://playground.babylonjs.com/#RKKMNA#0)
+
+Случайная непоследовательная генерация шаров перестановок на плоскостях с повторениями.
 
 [All possible permutations without repetition (Version 6 - Random generation of balls on planes with repetitions) | Babylon.js Playground](https://playground.babylonjs.com/#HBIIWL#0)
 
+Перестановка шаров перестановок с помощью масок перестановок.
+
 [All possible permutations without repetition (Version 7 - Permutations using masks but without endless generation) | Babylon.js Playground](https://playground.babylonjs.com/#N8PW93#0)
+
+
 
 [All possible permutations without repetition (Version 8 - Permutations using masks but as the camera moves) | Babylon.js Playground](https://playground.babylonjs.com/#52NV7S#0)
 
